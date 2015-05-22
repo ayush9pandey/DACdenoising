@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.26)  20 MAY 2015 13:20
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.26)  16 MAY 2015 00:58
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 =======
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.26)  16 MAY 2015 00:58
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
@@ -11,6 +15,7 @@ entering extended mode
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 <<<<<<< HEAD
+<<<<<<< HEAD
 (./ligodoc.cls
 Document Class: ligodoc 2006/07/17 LIGO document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -18,10 +23,15 @@ Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 =======
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+<<<<<<< HEAD
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
+=======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 )
 \c@part=\count79
@@ -37,12 +47,15 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 =======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -104,6 +117,7 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
@@ -114,6 +128,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 =======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -148,6 +164,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
+<<<<<<< HEAD
 <<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -188,6 +205,8 @@ Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 =======
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 (./Quantization Noise.aux)
 \openout1 = `"Quantization Noise.aux"'.
 
@@ -228,12 +247,16 @@ Package ifluatex Info: LuaTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
+<<<<<<< HEAD
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
+=======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+<<<<<<< HEAD
 <<<<<<< HEAD
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
@@ -444,13 +467,20 @@ LaTeX Font Info:    ... okay on input line 23.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
+=======
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 <<<<<<< HEAD
+<<<<<<< HEAD
 )
 =======
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
@@ -468,6 +498,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+<<<<<<< HEAD
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
+=======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
@@ -478,6 +511,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+<<<<<<< HEAD
 <<<<<<< HEAD
 \AtBeginShipoutBox=\box35
 Package hyperref Info: Link coloring ON on input line 23.
@@ -686,6 +720,8 @@ PDF statistics:
  50 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 =======
+=======
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
@@ -784,5 +820,8 @@ PDF statistics:
  55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
+<<<<<<< HEAD
+>>>>>>> 624c3db9564088e494534eba4feb159626de88e2
+=======
 >>>>>>> 624c3db9564088e494534eba4feb159626de88e2
 
